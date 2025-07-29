@@ -1,4 +1,4 @@
-A lightweight Python implementation of TCP-like reliable data transfer over UDP. Supports:
+A Python implementation of TCP-like reliable data transfer over UDP. Supports:
 
 Retransmissions and ACK handling
 Cumulative ACKs and fast retransmit
